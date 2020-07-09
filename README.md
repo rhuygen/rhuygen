@@ -1,4 +1,6 @@
-### Hi there 👋
+### Rik Huygen
+
+I work at the [Institute of Astronomy](https://fys.kuleuven.be/ster/), which is a division of the Physics department at the [University of Leuven](https://www.kuleuven.be/english/) in Belgium. I'm currently working on the [PLATO Project](https://sci.esa.int/web/plato/) which is a medium-class ESA science mission in search for terrestrial planets in the habitable zone around solar-like stars, an exoplanet mission.
 
 <!--
 **rhuygen/rhuygen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
